@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GraphSampleAChart", "GraphSampleAChart\GraphSampleAChart.csproj", "{80FD3DDA-CE48-4E3F-ADE6-A04B54027A26}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AChartEnging", "AChartEnging\AChartEnging.csproj", "{C41FA82F-158C-459B-B6D1-28F8B140718D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{80FD3DDA-CE48-4E3F-ADE6-A04B54027A26}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{80FD3DDA-CE48-4E3F-ADE6-A04B54027A26}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{80FD3DDA-CE48-4E3F-ADE6-A04B54027A26}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{80FD3DDA-CE48-4E3F-ADE6-A04B54027A26}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C41FA82F-158C-459B-B6D1-28F8B140718D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C41FA82F-158C-459B-B6D1-28F8B140718D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C41FA82F-158C-459B-B6D1-28F8B140718D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C41FA82F-158C-459B-B6D1-28F8B140718D}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(MonoDevelopProperties) = preSolution
+		StartupItem = GraphSampleAChart\GraphSampleAChart.csproj
+	EndGlobalSection
+EndGlobal

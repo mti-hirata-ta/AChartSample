@@ -1,0 +1,3 @@
+GraphSampleAChart.Activity1;graphsampleachart.Activity1
+AChartEngine.Tools.IPanListenerImplementor;mono.org.achartengine.tools.PanListenerImplementor
+AChartEngine.Tools.IZoomListenerImplementor;mono.org.achartengine.tools.ZoomListenerImplementor

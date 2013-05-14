@@ -1,0 +1,6 @@
+[assembly:global::Android.Runtime.NamespaceMapping (Java = "org.achartengine", Managed="AChartEngine")]
+[assembly:global::Android.Runtime.NamespaceMapping (Java = "org.achartengine.chart", Managed="AChartEngine.Chart")]
+[assembly:global::Android.Runtime.NamespaceMapping (Java = "org.achartengine.model", Managed="AChartEngine.Model")]
+[assembly:global::Android.Runtime.NamespaceMapping (Java = "org.achartengine.renderer", Managed="AChartEngine.Renderer")]
+[assembly:global::Android.Runtime.NamespaceMapping (Java = "org.achartengine.tools", Managed="AChartEngine.Tools")]
+[assembly:global::Android.Runtime.NamespaceMapping (Java = "org.achartengine.util", Managed="AChartEngine.Util")]

@@ -1,0 +1,42 @@
+﻿<Properties>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="GraphSampleAChart/MainActivity.cs">
+    <Files>
+      <File FileName="GraphSampleAChart/MainActivity.cs" Line="66" Column="23" />
+      <File FileName="AChartEnging/Jars/AboutJars.txt" Line="1" Column="1" />
+      <File FileName="AChartEnging/Transforms/EnumFields.xml" Line="1" Column="1" />
+      <File FileName="AChartEnging/Transforms/Metadata.xml" Line="11" Column="96" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State expanded="True">
+          <Node name="AChartEnging" expanded="True">
+            <Node name="Jars" expanded="True" />
+            <Node name="Properties" expanded="True" />
+            <Node name="Transforms" expanded="True" />
+          </Node>
+          <Node name="GraphSampleAChart" expanded="True" selected="True">
+            <Node name="References" expanded="True" />
+            <Node name="Assets" expanded="True" />
+            <Node name="Properties" expanded="True" />
+            <Node name="Resources" expanded="True" />
+          </Node>
+        </State>
+      </Pad>
+      <Pad Id="ClassPad">
+        <State expanded="True" selected="True" />
+      </Pad>
+      <Pad Id="MonoDevelop.Debugger.WatchPad">
+        <State />
+      </Pad>
+      <Pad Id="ConnectionManagerPad">
+        <State selected="True" />
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.ItemProperties.GraphSampleAChart AndroidDeviceId-Debug="CB5A1KFPND" />
+</Properties>

@@ -1,0 +1,10 @@
+/Users/ying_j/Projects/GraphSampleAChart/AChartEnging/obj/Debug/AChartEnging.Jars.achartengine-1.0.0.jar
+/Users/ying_j/Projects/GraphSampleAChart/AChartEnging/bin/Debug/AChartEnging.dll.mdb
+/Users/ying_j/Projects/GraphSampleAChart/AChartEnging/bin/Debug/AChartEnging.dll
+/Users/ying_j/Projects/GraphSampleAChart/AChartEnging/obj/Debug/AChartEnging.dll
+/Users/ying_j/Projects/GraphSampleAChart/AChartEnging/obj/Debug/AChartEnging.dll.mdb
+/Users/hirata_ta/Downloads/GraphSampleAChart/AChartEnging/obj/Debug/AChartEnging.Jars.achartengine-1.0.0.jar
+/Users/hirata_ta/Downloads/GraphSampleAChart/AChartEnging/bin/Debug/AChartEnging.dll.mdb
+/Users/hirata_ta/Downloads/GraphSampleAChart/AChartEnging/bin/Debug/AChartEnging.dll
+/Users/hirata_ta/Downloads/GraphSampleAChart/AChartEnging/obj/Debug/AChartEnging.dll
+/Users/hirata_ta/Downloads/GraphSampleAChart/AChartEnging/obj/Debug/AChartEnging.dll.mdb
